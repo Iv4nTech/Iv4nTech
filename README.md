@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy IvanTech <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Soy nuevo en el mundo de la programación, pero en el campo de la cración de contenido soy una máquina 😉</h3>
 
-<h3 align="center">¡Sigueme en mis redes sociales!</h3>
+<h3 align="center">¡Contacta conmigo!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iv4ntech/)
