@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&size=37&pause=1000&color=F70000&width=435&lines=se+tenso...)](https://git.io/typing-svg)
 <h1 align="center">Hola 👋, Soy IvanTech <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Soy nuevo en el mundo de la programación, pero en el campo de la cración de contenido soy una máquina 😉</h3>
 
