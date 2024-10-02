@@ -7,14 +7,18 @@
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iv4ntech/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Iv4nTech)
+<link rel="stylesheet" href="styles.css">
+
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangomezjimenez16@gmail.com)
+
 
 <h3 align="center">Último video de mi canal de <a href="https://www.youtube.com/@IvanTech4">YouTube</a> :
 <div style="margin-top: 20px;">
     <img height="200" sizes="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIxZGlsYTd1Y2hnNmI2MWIxMGpqYzRpbXJhdjQzcHFocHN0ZjUxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif">
 </div>
 
-[![Alt text](https://img.youtube.com/vi/A8NFTYMONAA/0.jpg)](https://www.youtube.com/watch?v=A8NFTYMONAA)
+<a href="https://www.youtube.com/watch?v=A8NFTYMONAA">
+        <img src="https://img.youtube.com/vi/A8NFTYMONAA/0.jpg" alt="Alt text" class="custom-image">
   
 </div>
 
