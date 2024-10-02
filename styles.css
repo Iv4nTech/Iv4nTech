@@ -1,0 +1,7 @@
+.custom-image {
+    width: 300px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    border: 2px solid #000; /* Borde negro de 2px */
+    border-radius: 10px; /* Esquinas redondeadas */
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.3); /* Sombra */
+}
