@@ -9,7 +9,10 @@
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Iv4nTech)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangomezjimenez16@gmail.com)
 
-<h3 align="center">Último video:</h3>
+<h3 align="center">Último video</h3>
+<div style="margin-top: 20px;">
+    <img height="200" sizes="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIxZGlsYTd1Y2hnNmI2MWIxMGpqYzRpbXJhdjQzcHFocHN0ZjUxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif">
+</div>
 
 [![Alt text](https://img.youtube.com/vi/A8NFTYMONAA/0.jpg)](https://www.youtube.com/watch?v=A8NFTYMONAA)
   
@@ -39,9 +42,3 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Iv4nTech&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iv4nTech&theme=react&layout=compact" />
 </p>
-
-------
-
-[Iv4nTech](https://github.com/Iv4nTech)
-
-Última edición: 01/10/2024
