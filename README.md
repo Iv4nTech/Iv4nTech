@@ -19,6 +19,9 @@
 
 <a href="https://www.youtube.com/watch?v=A8NFTYMONAA">
         <img src="https://img.youtube.com/vi/A8NFTYMONAA/0.jpg" alt="Alt text" class="custom-image">
+ 
+<img height="25" sizes="50" 
+src="https://img.shields.io/youtube/channel/views/UC_6Op7-fCD1jvZKQiPpMJ0g">
   
 </div>
 
