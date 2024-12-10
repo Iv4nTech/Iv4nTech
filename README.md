@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&size=37&pause=1000&color=F70000&width=435&lines=se+tenso...)](https://git.io/typing-svg)
 <h1 align="center">Hola 👋, Soy IvanTech <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Soy nuevo en el mundo de la programación, pero en el campo de la cración de contenido soy una máquina 😉</h3>
 
@@ -11,18 +10,6 @@
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangomezjimenez16@gmail.com)
 
-
-<h3 align="center">Último video de mi canal de <a href="https://www.youtube.com/@IvanTech4">YouTube</a> :
-<div style="margin-top: 20px;">
-    <img height="200" sizes="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIxZGlsYTd1Y2hnNmI2MWIxMGpqYzRpbXJhdjQzcHFocHN0ZjUxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif">
-</div>
-
-<a href="https://www.youtube.com/watch?v=A8NFTYMONAA">
-        <img src="https://img.youtube.com/vi/A8NFTYMONAA/0.jpg" alt="Alt text" class="custom-image">
- 
-<img height="25" sizes="50" 
-src="https://img.shields.io/youtube/channel/views/UC_6Op7-fCD1jvZKQiPpMJ0g">
-  
 </div>
 
 <h3 align="center">Lenguajes y herramientas:</h3>
