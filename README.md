@@ -22,4 +22,4 @@ Soy un **Desarrollador Web** enfocado principalmente en el **Backend**. Me apasi
 
 ¡Siempre estoy abierto a colaborar en proyectos interesantes, hablar sobre Backend o compartir rutas de ciclismo!
 
-- **LinkedIn:** https://www.linkedin.com/in/ivangomezjimenez/****
+- **LinkedIn:** https://www.linkedin.com/in/ivangomezjimenez/
